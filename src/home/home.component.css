@@ -1,0 +1,23 @@
+.icone-left{
+    background-color: white;
+    width: 90px;
+    height: 4PX;
+    margin-right: 10px;
+}
+.icone-right{
+    background-color: white;
+    width: 90px;
+    height: 4PX;
+    margin-left: 10px;
+}
+.home{
+    background-color: #1abc9c;
+    color: white;
+}
+.home-items{
+    margin-top: 100px;
+    height:calc(100vh - 120px ) ;
+}
+.img-hero{
+    width:250px
+}
